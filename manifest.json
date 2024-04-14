@@ -1,0 +1,12 @@
+{
+  "name": "CAT",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/willis81808/DeckSmith",
+  "description": "Silly Cat Cards",
+  "dependencies": [
+    "willis81808-UnboundLib-3.2.12",
+    "willis81808-DeckSmithUtil-1.0.0",
+    "willis81808-ModsPlus-1.6.2",
+    "CrazyCoders-RarityBundle-0.0.0"
+  ]
+}
