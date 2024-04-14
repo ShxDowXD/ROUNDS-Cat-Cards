@@ -1,7 +1,7 @@
 {
   "name": "CAT",
-  "version_number": "0.0.1",
-  "website_url": "https://github.com/willis81808/DeckSmith",
+  "version_number": "0.0.3",
+  "website_url": "https://github.com/ShxDowXD/ROUNDS-Cat-Cards",
   "description": "Silly Cat Cards",
   "dependencies": [
     "willis81808-UnboundLib-3.2.12",
