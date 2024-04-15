@@ -1,8 +1,8 @@
 {
   "name": "CAT",
-  "version_number": "0.0.3",
+  "version_number": "0.0.9",
   "website_url": "https://github.com/ShxDowXD/ROUNDS-Cat-Cards",
-  "description": "Silly Cat Cards",
+  "description": "A Collection of cute and silly cards featuring adorable cats! Still in development :)",
   "dependencies": [
     "willis81808-UnboundLib-3.2.12",
     "willis81808-DeckSmithUtil-1.0.0",
